@@ -6,10 +6,10 @@
  ***
 
  **Lista de Exercícios:**
- - [x]Olá Mundo
- - [x]Calculadora
- - [x]Exercícios 10, 11
- - [x]Prova
- - [x]Questão 06
- - [x]Trabalho
+ * Olá Mundo
+ * Calculadora
+ * Exercícios 10, 11
+ * [Prova](https://github.com/Caracioly/codigos-antigos/tree/main/package-download/Atividades%20com%20Java/Prova)
+ * Questão 06
+ * Trabalho
 
