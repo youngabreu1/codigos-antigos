@@ -1,6 +1,6 @@
 # Códigos-Antigos
  
- Repositório contendo alguns exercícios de **Java** realizados 
+ Repositório contendo alguns exercícios de **Java**, realizados 
  no 4º semestre de *Sistemas de Informação*.
 
  ***
